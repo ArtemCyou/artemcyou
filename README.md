@@ -1,6 +1,6 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=artemcyou) 
 
-[![Header](https://github.com/ArtemCyou/artemcyou/blob/main/assets/photo_2021-12-11_16-29-23.jpg)](https://www.youtube.com/channel/UCiW9dLm9pLTQrO1Y7hA9OLA/videos)
+[![Header](https://github.com/ArtemCyou/artemcyou/blob/main/assets/photo_2021-12-11_21-50-39.jpg)](https://www.youtube.com/channel/UCiW9dLm9pLTQrO1Y7hA9OLA/videos)
 
 ## Я начинающий Software Engineer
 Веду небольшой it канал на [youtube](https://www.youtube.com/c/ArtemCYOU)
