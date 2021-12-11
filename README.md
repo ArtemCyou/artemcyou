@@ -25,7 +25,7 @@
 [![Golang](https://img.shields.io/badge/-git-1F1E1F?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemCyou&count_private=true&hide=tsql&langs_count=7&theme=bear&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemCyou&count_private=true&hide=tsql&langs_count=7&theme=bear&layout=compact)](https://github.com/ArtemCyou?tab=repositories)
 
 ### 🎬 ARTEM CYOU - YouTube Channel
 <span>
