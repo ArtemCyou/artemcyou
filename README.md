@@ -1,9 +1,9 @@
-### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=artemcyou) 
 
 [![Header](https://github.com/ArtemCyou/artemcyou/blob/main/assets/photo_2021-12-11_16-29-23.jpg)](https://www.youtube.com/channel/UCiW9dLm9pLTQrO1Y7hA9OLA/videos)
 
 ## Я начинающий Software Engineer
-Веду небольшой [youtube](https://www.youtube.com/c/ArtemCYOU) канал 
+Веду небольшой it канал на [youtube](https://www.youtube.com/c/ArtemCYOU)
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Обо&nbsp;мне</b></summary>
@@ -11,7 +11,7 @@
 
 Закончил обучение на факультете строительства и управления недвижимостью Кубанского Государственного Технологического Университета.
 
-Проработал по специальности чуть больше года. Решил устроится контент менеджером в строительную компанию, подготовливал и выкладывал контент на сайт под управлением wordpress. Спустя время занялся SEO продвижением, а так-же сам начал верстать сайты и писать небольшие плагины на php для CMS Wordpress.
+Проработал по специальности чуть больше года. Решил устроиться контент менеджером в строительную компанию, подготавливал и выкладывал контент на сайт под управлением WordPress. Спустя время занялся SEO продвижением, а так-же сам начал верстать сайты и писать небольшие плагины на php для CMS WordPress.
 
 Спустя некоторое время понял, что мне больше интересен backend поэтому я решил углубиться в разработку для этого был выбран эффективный язык программирования Golang! 
 
