@@ -6,7 +6,7 @@
 Веду небольшой it канал на [youtube](https://www.youtube.com/c/ArtemCYOU)
 
 <details>
-  <summary><h4>✨&nbsp;&nbsp;Обо&nbsp;мне</h4></summary>
+  <summary><b>✨&nbsp;&nbsp;Обо&nbsp;мне</b>></summary>
   <br/>
 
 Закончил обучение на факультете строительства и управления недвижимостью Кубанского Государственного Технологического Университета.
