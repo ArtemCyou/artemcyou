@@ -1,11 +1,23 @@
-### Hi there 👋
+### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Header](https://github.com/ArtemCyou/artemcyou/blob/main/assets/photo_2021-12-11_16-29-23.jpg)](https://www.youtube.com/channel/UCiW9dLm9pLTQrO1Y7hA9OLA/videos)
 
 ## Я начинающий Software Engineer
-веду небольшой youtube канал 
+Веду небольшой [youtube](https://www.youtube.com/c/ArtemCYOU) канал 
 
-Latest youtube videos
+<details>
+  <summary><b>✨&nbsp;&nbsp;Обо&nbsp;мне</b></summary>
+  <br/>
+
+Закончил обучение на факультете строительства и управления недвижимостью Кубанского Государственного Технологического Университета.
+
+Проработал по специальности чуть больше года. Решил устроится контент менеджером в строительную компанию, подготовливал и выкладывал контент на сайт под управлением wordpress. Спустя время занялся SEO продвижением, а так-же сам начал верстать сайты и писать небольшие плагины на php для CMS Wordpress.
+
+Спустя некоторое время понял, что мне больше интересен backend поэтому я решил углубиться в разработку для этого был выбран эффективный язык программирования Golang! 
+
+### Образование
+Кубанский Государственный Технологический Университет. Специальность - Гидротехническое строительство. Квалификация - инженер. Год выпуска - 2013.
+</details> 
 
 ### Languages and Tools
 [![Golang](https://img.shields.io/badge/-Golang-06ADC8?style=for-the-badge&logo=goland)](https://go.dev/)
@@ -46,4 +58,4 @@ Latest youtube videos
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-1F1E1F?style=for-the-badge&logo=telegram)](https://t.me/ux_police)
 [![Instagram](https://img.shields.io/badge/-Instagram-1F1E1F?style=for-the-badge&logo=instagram)](https://www.instagram.com/artem.cyou/)
-[![Youtube](https://img.shields.io/badge/-Youtube-1F1E1F?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCiW9dLm9pLTQrO1Y7hA9OLA/videos)
+[![Youtube](https://img.shields.io/badge/-Youtube-1F1E1F?style=for-the-badge&logo=YouTube)](https://www.youtube.com/c/artemcyou/videos)
