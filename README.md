@@ -57,5 +57,4 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-1F1E1F?style=for-the-badge&logo=telegram)](https://t.me/ux_police)
-[![Instagram](https://img.shields.io/badge/-Instagram-1F1E1F?style=for-the-badge&logo=instagram)](https://www.instagram.com/artem.cyou/)
 [![Youtube](https://img.shields.io/badge/-Youtube-1F1E1F?style=for-the-badge&logo=YouTube)](https://www.youtube.com/c/artemcyou/videos)
