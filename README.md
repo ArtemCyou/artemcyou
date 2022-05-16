@@ -24,6 +24,9 @@
 [![SQL](https://img.shields.io/badge/-SQL-1F1E1F?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![Golang](https://img.shields.io/badge/-git-1F1E1F?style=for-the-badge&logo=git)](https://git-scm.com/)
 
+### CI/CD
+![GithubActions](https://img.shields.io/badge/github_actions-0?style=for-the-badge&logo=GitHubActions&logoColor=white&color=2bbc8a&labelColor=blue)
+
 ### 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemCyou&count_private=true&hide=tsql&langs_count=7&theme=bear&layout=compact)](https://github.com/ArtemCyou?tab=repositories)
 
@@ -57,4 +60,5 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-1F1E1F?style=for-the-badge&logo=telegram)](https://t.me/ux_police)
-[![Youtube](https://img.shields.io/badge/-Youtube-1F1E1F?style=for-the-badge&logo=YouTube)](https://www.youtube.com/c/artemcyou/videos)
+[![Youtube](https://img.shields.io/badge/-Youtube-1F1E1F?style=for-the-badge&logo=YouTube&labelColor=A40E26)](https://www.youtube.com/c/artemcyou/videos)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Artem_Prilutskikh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artem-prilutskikh-983450147)](https://www.linkedin.com/in/artem-prilutskikh-983450147)
