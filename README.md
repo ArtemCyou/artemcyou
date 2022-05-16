@@ -25,7 +25,7 @@
 [![Golang](https://img.shields.io/badge/-git-1F1E1F?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 ### CI/CD
-![GithubActions](https://img.shields.io/badge/github_actions-0?style=for-the-badge&logo=GitHubActions&logoColor=white&color=2bbc8a&labelColor=blue)
+![GithubActions](https://img.shields.io/badge/github_actions-0?style=for-the-badge&logo=GitHubActions&logoColor=white&color=272728&labelColor=blue)
 
 ### 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemCyou&count_private=true&hide=tsql&langs_count=7&theme=bear&layout=compact)](https://github.com/ArtemCyou?tab=repositories)
