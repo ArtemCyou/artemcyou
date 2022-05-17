@@ -1,4 +1,5 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=artemcyou) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ADFFAC&background=00FFEB00&lines=Mom,+look,+I'm+a+gofer!)](https://git.io/typing-svg)
 
 [![Header](https://github.com/ArtemCyou/artemcyou/blob/main/assets/photo_2021-12-11_21-50-39.jpg)](https://www.youtube.com/channel/UCiW9dLm9pLTQrO1Y7hA9OLA/videos)
 
@@ -61,4 +62,4 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-1F1E1F?style=for-the-badge&logo=telegram)](https://t.me/ux_police)
 [![Youtube](https://img.shields.io/badge/-Youtube-1F1E1F?style=for-the-badge&logo=YouTube&labelColor=A40E26)](https://www.youtube.com/c/artemcyou/videos)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Artem_Prilutskikh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artem-prilutskikh-983450147)](https://www.linkedin.com/in/artem-prilutskikh-983450147)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Artem_Prilutskikh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&color=272728&labelColor=blue&link=https://www.linkedin.com/in/artem-prilutskikh-983450147)](https://www.linkedin.com/in/artem-prilutskikh-983450147)
