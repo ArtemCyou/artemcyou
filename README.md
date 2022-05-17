@@ -1,5 +1,5 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=artemcyou) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ADFFAC&background=00FFEB00&lines=Mom,+look,+I'm+a+gofer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ADFFAC&background=00FFEB00&lines=Mom,+look,+I'm+a+gopher!)](https://git.io/typing-svg)
 
 [![Header](https://github.com/ArtemCyou/artemcyou/blob/main/assets/photo_2021-12-11_21-50-39.jpg)](https://www.youtube.com/channel/UCiW9dLm9pLTQrO1Y7hA9OLA/videos)
 
