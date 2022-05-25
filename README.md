@@ -35,9 +35,9 @@
 
 
 
-[![Golang с нуля - основы языка программирования! Уроки по golang для начинающих. 101](https://i.ytimg.com/vi/_ftihdegPJA/hqdefault.jpg)](https://youtu.be/fhgg2LUdxD0) | [![условные команды в golang](https://i.ytimg.com/vi/EtlNdxk2X-s/hqdefault.jpg)](https://youtu.be/EtlNdxk2X-s) | [![как устроены циклы if, else в golang, зачем нужны continue и break](https://i.ytimg.com/vi/fhgg2LUdxD0/hqdefault.jpg)](https://youtu.be/fhgg2LUdxD0)
+[![Golang с нуля - основы языка программирования! Уроки по golang для начинающих. 101](https://i.ytimg.com/vi/fhgg2LUdxD0/hqdefault.jpg)](https://youtu.be/fhgg2LUdxD0) | [![условные команды в golang](https://i.ytimg.com/vi/EtlNdxk2X-s/hqdefault.jpg)](https://youtu.be/EtlNdxk2X-s) | [![как устроены циклы if, else в golang, зачем нужны continue и break](https://i.ytimg.com/vi/h0On271Etq4/hqdefault.jpg)](https://youtu.be/h0On271Etq4)
 ---|---|--- 
-[![пишем мини игру на GO](https://i.ytimg.com/vi/fhgg2LUdxD0/hqdefault.jpg)](https://youtu.be/_ftihdegPJA) | [![Golang с нуля - указатели и свои функции](https://i.ytimg.com/vi/WwLlvyLFTus/hqdefault.jpg)](https://youtu.be/WwLlvyLFTus) | 
+[![пишем мини игру на GO](https://i.ytimg.com/vi/_ftihdegPJA/hqdefault.jpg)](https://youtu.be/_ftihdegPJA) | [![Golang с нуля - указатели и свои функции](https://i.ytimg.com/vi/WwLlvyLFTus/hqdefault.jpg)](https://youtu.be/WwLlvyLFTus) | 
  
 
 
