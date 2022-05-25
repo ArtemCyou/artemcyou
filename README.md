@@ -32,31 +32,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemCyou&count_private=true&hide=tsql&langs_count=7&theme=bear&layout=compact)](https://github.com/ArtemCyou?tab=repositories)
 
 ### 🎬 ARTEM CYOU - YouTube Channel
-<span>
-  <a href="https://youtu.be/fhgg2LUdxD0">
-    <img src="https://i.ytimg.com/vi/fhgg2LUdxD0/hqdefault.jpg" alt="Golang с нуля - основы языка программирования! Уроки по golang для начинающих. 101" height="225px">
-  </a>
-</span>
-<span>  
-  <a href="https://youtu.be/EtlNdxk2X-s">
-    <img src="https://i.ytimg.com/vi/EtlNdxk2X-s/hqdefault.jpg" alt="условные команды в golang" height="225px">
-  </a>
-</span>
-<span>  
-  <a href="https://youtu.be/h0On271Etq4">
-    <img src="https://i.ytimg.com/vi/h0On271Etq4/hqdefault.jpg" alt="как устроены циклы if, else в golang, зачем нужны continue и break" height="225px">
-  </a>
-</span>
-<span>  
-  <a href="https://youtu.be/_ftihdegPJA">
-    <img src="https://i.ytimg.com/vi/_ftihdegPJA/hqdefault.jpg" alt="пишем мини игру на GO" height="225px">
-  </a>
-</span>
-<span>  
-  <a href="https://youtu.be/WwLlvyLFTus">
-    <img src="https://i.ytimg.com/vi/WwLlvyLFTus/hqdefault.jpg" alt="Golang с нуля - указатели и свои функции" height="225px">
-  </a>
-</span>
+
+
+
+[![Golang с нуля - основы языка программирования! Уроки по golang для начинающих. 101](https://i.ytimg.com/vi/_ftihdegPJA/hqdefault.jpg)](https://youtu.be/fhgg2LUdxD0) | [![условные команды в golang](https://i.ytimg.com/vi/EtlNdxk2X-s/hqdefault.jpg)](https://youtu.be/EtlNdxk2X-s) | [![как устроены циклы if, else в golang, зачем нужны continue и break](https://i.ytimg.com/vi/fhgg2LUdxD0/hqdefault.jpg)](https://youtu.be/fhgg2LUdxD0)
+---|---|--- 
+[![пишем мини игру на GO](https://i.ytimg.com/vi/fhgg2LUdxD0/hqdefault.jpg)](https://youtu.be/_ftihdegPJA) | [![Golang с нуля - указатели и свои функции](https://i.ytimg.com/vi/WwLlvyLFTus/hqdefault.jpg)](https://youtu.be/WwLlvyLFTus) | 
+ 
 
 
 ### Follow me
